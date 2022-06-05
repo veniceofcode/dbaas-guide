@@ -1,0 +1,7 @@
+name: dbaas
+title: OpenShift DBAAS Workshop
+version: "6.1"
+nav:
+  - modules/ROOT/nav.adoc
+
+start_page: ROOT:index.adoc
