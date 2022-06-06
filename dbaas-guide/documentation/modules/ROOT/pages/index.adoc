@@ -1,12 +1,11 @@
-= Welcome to dbaas Workshop
+= Welcome to DBAAS Workshop
 :page-layout: home
 :!sectids:
 
 [.text-center.strong]
 == Ready to become a Cloud Native Developer?
 
-This immersive workshop will put you in the Cloud Native world as a Developer: code, run and deploy modern applications on 
-OpenShift using rich and advanced development services.
+This immersive workshop will put you in the Cloud Native world as a Developer: code, run and deploy modern applications on  OpenShift using rich and advanced development services.
 
 image::dbaas.png[Developer dbaas, 400]
 

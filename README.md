@@ -34,7 +34,7 @@ Using Database services in the cloud but we still will have to deal with the pro
 ![Adhoc DB ](dbaas-guide/documentation/modules/ROOT/assets/images/challenge1.png )
 
 
-Finally, BEST approach to provide a frictionless experience to developers and operation teammates can be described as below
+Finally, BEST approach to provide a frictionless experience to Developers and Operations teammates can be described as below
 
 ***Red Hat OpenShift Database Access (RHODA)***
 
@@ -43,3 +43,7 @@ Finally, BEST approach to provide a frictionless experience to developers and op
 - Centralized monitoring, consistent control plane for admins
 
 ![RHODA ](dbaas-guide/documentation/modules/ROOT/assets/images/solution.png)
+
+
+***How to***
+This workshop can help deploy microservices using the managed databases supported by RHODA Operator
