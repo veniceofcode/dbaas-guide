@@ -23,7 +23,7 @@ Imagine if we need to deploy one or more services that needs to interact with a 
 ![Deploy Database Continued .... ](dbaas-guide/documentation/modules/ROOT/assets/images/db2.png)
 
 
-A better approach to Databases 
+***A better approach to Databases***
 
 By using Managed Databases in the cloud, we can overcome need to provision databases within the same cluster where applications are deployed , however they still come with a set of additional challenges to deal with ...
 
