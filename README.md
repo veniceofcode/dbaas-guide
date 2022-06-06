@@ -11,3 +11,14 @@ The Red Hat Database as a service add-on enables:
 
 DBaaS project is developed and productized using iterative development processes to allow feedback from users, enable/help ISV develop the required functionality and quickly release those to users. Following sections are focussed on the service definition as planned for Alpha release of DbaaS.
 
+
+***Current Scenario***
+
+Imagine if we need to deploy one or more services that needs to interact with a database, one of the simplest ways of getting Database available for us while deploying in OpenShift would like something like below 
+
+***Shell Script***
+
+![Deploy Database ](dbaas-guide/documentation/modules/ROOT/assets/images/db1.png)
+
+![Deploy Database Continued .... ](dbaas-guide/documentation/modules/ROOT/assets/images/db2.png)
+
