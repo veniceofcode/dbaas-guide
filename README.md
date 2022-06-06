@@ -22,12 +22,19 @@ Imagine if we need to deploy one or more services that needs to interact with a 
 
 ![Deploy Database Continued .... ](dbaas-guide/documentation/modules/ROOT/assets/images/db2.png)
 
-***Challenges for ad hoc DBaaS in the Enterprise***
+
+A better approach to Databases 
+
+Using Database services in the cloud but we still will have to deal with the problem of connecting the databases to applications while deployed in a container platform and some of the key challenges can be listed below 
+
+***Challenges for d hoc DBaaS in the Enterprise***
 
 ![Adhoc DB ](dbaas-guide/documentation/modules/ROOT/assets/images/challenge1.png)
 
 
-***Solution: Red Hat OpenShift Database Access (RHODA)***
+Finally, BEST approach to provide a frictionless experience to developers and operation teammates can be described as below
+
+***Red Hat OpenShift Database Access (RHODA)***
 
 - Faster and easier self-service for developers
 - More efficient connection, DB utilization
