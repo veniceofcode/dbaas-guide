@@ -18,9 +18,10 @@ Imagine if we need to deploy one or more services that needs to interact with a 
 
 ***Shell Script***
 
-![Deploy Database ](dbaas-guide/documentation/modules/ROOT/assets/images/db1.png)
+[<img src="dbaas-guide/documentation/modules/ROOT/assets/images/db1.png" width="350"/>](Deploy Database) 
 
-![Deploy Database Continued .... ](dbaas-guide/documentation/modules/ROOT/assets/images/db2.png)
+[<img src="dbaas-guide/documentation/modules/ROOT/assets/images/db2.png" width="350"/>](Deploy Database)
+
 
 
 ***A better approach to Databases***
@@ -31,7 +32,7 @@ Using Database services in the cloud but we still will have to deal with the pro
 
 ***Challenges for ad hoc DBaaS in the Enterprise***
 
-![Adhoc DB ](dbaas-guide/documentation/modules/ROOT/assets/images/challenge1.png)
+![Adhoc DB ](dbaas-guide/documentation/modules/ROOT/assets/images/challenge1.png )
 
 
 Finally, BEST approach to provide a frictionless experience to developers and operation teammates can be described as below
