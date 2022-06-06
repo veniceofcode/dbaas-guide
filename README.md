@@ -18,10 +18,9 @@ Imagine if we need to deploy one or more services that needs to interact with a 
 
 ***Shell Script***
 
-[<img src="dbaas-guide/documentation/modules/ROOT/assets/images/db1.png" width="350"/>](Deploy Database) 
+![Deploy Database ](dbaas-guide/documentation/modules/ROOT/assets/images/db1.png)
 
-[<img src="dbaas-guide/documentation/modules/ROOT/assets/images/db2.png" width="350"/>](Deploy Database)
-
+![Deploy Database Continued .... ](dbaas-guide/documentation/modules/ROOT/assets/images/db2.png)
 
 
 ***A better approach to Databases***
