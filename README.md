@@ -22,3 +22,15 @@ Imagine if we need to deploy one or more services that needs to interact with a 
 
 ![Deploy Database Continued .... ](dbaas-guide/documentation/modules/ROOT/assets/images/db2.png)
 
+***Challenges for ad hoc DBaaS in the Enterprise***
+
+![Adhoc DB ](dbaas-guide/documentation/modules/ROOT/assets/images/challenge1.png)
+
+
+***Solution: Red Hat OpenShift Database Access (RHODA)***
+
+- Faster and easier self-service for developers
+- More efficient connection, DB utilization
+- Centralized monitoring, consistent control plane for admins
+
+![RHODA ](dbaas-guide/documentation/modules/ROOT/assets/images/solution.png)
