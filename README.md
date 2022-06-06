@@ -25,9 +25,11 @@ Imagine if we need to deploy one or more services that needs to interact with a 
 
 A better approach to Databases 
 
+By using Managed Databases in the cloud, we can overcome need to provision databases within the same cluster where applications are deployed , however they still come with a set of additional challenges to deal with ...
+
 Using Database services in the cloud but we still will have to deal with the problem of connecting the databases to applications while deployed in a container platform and some of the key challenges can be listed below 
 
-***Challenges for d hoc DBaaS in the Enterprise***
+***Challenges for ad hoc DBaaS in the Enterprise***
 
 ![Adhoc DB ](dbaas-guide/documentation/modules/ROOT/assets/images/challenge1.png)
 
